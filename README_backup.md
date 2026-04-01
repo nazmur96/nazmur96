@@ -2,30 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Moving Robot" width="100%" />
-</p>
-
 ## 👨‍💻 About Me
 
-I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and Generative AI!
+I'm a passionate developer who loves creating amazing things with code. Welcome to my digital playground!
 
-- 🔭 I’m currently working on **Kubernetes homelab & AI agents**
-- 🌱 I’m currently learning **DevOps, Cloud, and Generative AI**
-- 👯 I’m looking to collaborate on **open source AI & infrastructure projects**
-- 💬 Ask me about **Linux, Python, Kubernetes, and RAG**
-- 📫 How to reach me: **nazmurrakib1996@gmail.com**
-- ⚡ Fun fact: **I love automating everything and building AI agents**
+- 🔭 I’m currently working on **exciting projects**
+- 🌱 I’m currently learning **new technologies**
+- 👯 I’m looking to collaborate on **open source projects**
+- 💬 Ask me about **web development, Python, and JavaScript**
+- 📫 How to reach me: **nazmur96@example.com**
+- ⚡ Fun fact: **I love solving puzzles and coding challenges**
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -40,13 +36,7 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/trophies.png" width="600" />
-</div>
-
-## ⭐ GitHub Stars
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/stars.png" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nazmur96&theme=radical&row=2&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ## 🔥 Streak Stats
@@ -73,9 +63,9 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🚀 K8s Homelab](https://github.com/nazmur96/k8s-homelab) | My Kubernetes cluster setup and experiments | Kubernetes, Docker, Terraform |
-| [🤖 RAG Agent](https://github.com/nazmur96/rag-agent) | Building AI agents with Retrieval-Augmented Generation | Python, LangChain, OpenAI |
-| [⚙️ DevOps Tools](https://github.com/nazmur96/devops-tools) | Automation scripts for Linux administration | Python, Bash, Ansible |
+| [Project 1](https://github.com/nazmur96/project1) | An amazing project that does incredible things | React, Node.js, MongoDB |
+| [Project 2](https://github.com/nazmur96/project2) | Another awesome project with great features | Python, Django, PostgreSQL |
+| [Project 3](https://github.com/nazmur96/project3) | Yet another cool project worth checking out | JavaScript, HTML, CSS |
 
 ## 📫 Connect With Me
 
@@ -89,7 +79,7 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
   <a href="https://dev.to/nazmur96">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="mailto:nazmurrakib1996@gmail.com">
+  <a href="mailto:nazmur96@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -99,12 +89,11 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nazmur96&style=for-the-badge&color=2c9f6f" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nazmur96?style=for-the-badge&logo=github&color=2c9f6f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nazmur96?style=for-the-badge&logo=github&color=2c9f6f" alt="Stars" />
 </div>
 
 <div align="center">
   <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
 </div>
 
-<div align="center">
-  <i>💻 "From servers to agents — building the future, one line of code at a time." 💻</i>
-</div>
+ 
