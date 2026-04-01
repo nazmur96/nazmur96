@@ -40,13 +40,13 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/trophies.png" width="600" />
+  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/trophies.svg" width="600" />
 </div>
 
 ## ⭐ GitHub Stars
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/stars.png" width="400" />
+  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/stars.svg" width="400" />
 </div>
 
 ## 🔥 Streak Stats

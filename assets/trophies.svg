@@ -1,0 +1,14 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="120" fill="#0d1117" rx="10"/>
+  <text x="60"  y="45" font-size="24" text-anchor="middle" fill="#FFD700">🏆</text>
+  <text x="60"  y="75" font-size="11" text-anchor="middle" fill="#FFD700">SSS Rank</text>
+  <text x="180" y="45" font-size="24" text-anchor="middle" fill="#C0C0C0">🏆</text>
+  <text x="180" y="75" font-size="11" text-anchor="middle" fill="#C0C0C0">AAA Rank</text>
+  <text x="300" y="45" font-size="24" text-anchor="middle" fill="#CD7F32">🏆</text>
+  <text x="300" y="75" font-size="11" text-anchor="middle" fill="#CD7F32">Commits</text>
+  <text x="420" y="45" font-size="24" text-anchor="middle" fill="#4c8dae">🏆</text>
+  <text x="420" y="75" font-size="11" text-anchor="middle" fill="#4c8dae">Stars</text>
+  <text x="540" y="45" font-size="24" text-anchor="middle" fill="#2c9f6f">🏆</text>
+  <text x="540" y="75" font-size="11" text-anchor="middle" fill="#2c9f6f">Followers</text>
+  <rect x="2" y="2" width="596" height="116" rx="9" fill="none" stroke="#2c9f6f" stroke-width="2"/>
+</svg>
