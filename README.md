@@ -2,17 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Moving Robot" width="100%" />
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and Generative AI!
 
-- 🔭 I’m currently working on **Kubernetes homelab & AI agents**
-- 🌱 I’m currently learning **DevOps, Cloud, and Generative AI**
-- 👯 I’m looking to collaborate on **open source AI & infrastructure projects**
+- 🔭 I'm currently working on **Kubernetes homelab & AI agents**
+- 🌱 I'm currently learning **DevOps, Cloud, and Generative AI**
+- 👯 I'm looking to collaborate on **open source AI & infrastructure projects**
 - 💬 Ask me about **Linux, Python, Kubernetes, and RAG**
 - 📫 How to reach me: **nazmurrakib1996@gmail.com**
 - ⚡ Fun fact: **I love automating everything and building AI agents**
@@ -33,26 +29,26 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmur96&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmur96&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmur96&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmur96&layout=compact&langs_count=7&theme=radical&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/trophies.svg" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nazmur96&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ## ⭐ GitHub Stars
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/stars.svg" width="400" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=2c9f6f&label=Total%20Stars&query=%24.totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fnazmur96&logo=github&style=for-the-badge" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmur96&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmur96&theme=radical&hide_border=true" />
 </div>
 
 ## 📈 Activity Graph
@@ -60,14 +56,6 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmur96&theme=react-dark&bg_color=0d1117&color=4c8dae&line=2c9f6f&point=ffffff&area=true&hide_border=true" />
 </div>
-
-## 🐍 Snake Game Contribution Grid
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 💼 Featured Projects
 
@@ -86,9 +74,6 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
   <a href="https://linkedin.com/in/nazmur96">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/nazmur96">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
   <a href="mailto:nazmurrakib1996@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -98,11 +83,6 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nazmur96&style=for-the-badge&color=2c9f6f" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nazmur96?style=for-the-badge&logo=github&color=2c9f6f" alt="Followers" />
-</div>
-
-<div align="center">
-  <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
 </div>
 
 <div align="center">
