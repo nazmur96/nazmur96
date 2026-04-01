@@ -40,7 +40,9 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmur96&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nazmur96&theme=radical&no-frame=true&column=4" />
+  <br>
+  <sub>✨ <strong>Start earning trophies!</strong> Star your repos, contribute to open source, and grow your GitHub presence ✨</sub>
 </div>
 
 ## 🔥 Streak Stats
