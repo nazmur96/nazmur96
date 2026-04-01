@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Moving Robot" width="100%" />
+</p>
+
 ## 👨‍💻 About Me
 
 I'm a passionate developer who loves creating amazing things with code. Welcome to my digital playground!
@@ -95,5 +99,3 @@ I'm a passionate developer who loves creating amazing things with code. Welcome 
 <div align="center">
   <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
 </div>
-
- 
