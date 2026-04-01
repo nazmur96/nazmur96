@@ -37,18 +37,6 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmur96&layout=compact&langs_count=7&theme=radical" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/trophies.png" width="600" />
-</div>
-
-## ⭐ GitHub Stars
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nazmur96/nazmur96/main/assets/stars.png" width="400" />
-</div>
-
 ## 🔥 Streak Stats
 
 <div align="center">
