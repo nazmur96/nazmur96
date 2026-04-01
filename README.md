@@ -40,9 +40,13 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmur96&theme=radical&no-frame=true&column=4" />
-  <br>
-  <sub>✨ <strong>Start earning trophies!</strong> Star your repos, contribute to open source, and grow your GitHub presence ✨</sub>
+  <img src="https://via.placeholder.com/800x100/0d1117/2c9f6f?text=🏆+🏆+🏆+COMING+SOON:+GitHub+Trophies+🏆+🏆+🏆" />
+</div>
+
+## ⭐ GitHub Stars
+
+<div align="center">
+  <img src="https://via.placeholder.com/400x60/0d1117/gold?text=⭐+⭐+⭐+EARN+YOUR+FIRST+STAR+⭐+⭐+⭐" />
 </div>
 
 ## 🔥 Streak Stats
@@ -95,11 +99,10 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nazmur96&style=for-the-badge&color=2c9f6f" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nazmur96?style=for-the-badge&logo=github&color=2c9f6f" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nazmur96?style=for-the-badge&logo=github&color=2c9f6f" alt="Stars" />
 </div>
 
 <div align="center">
-  <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
+  <i>⭐️ Star my repos and help me earn my first trophy! ⭐️</i>
 </div>
 
 <div align="center">
