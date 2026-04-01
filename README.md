@@ -31,12 +31,10 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 </p>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmur96&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmur96&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="180em" src="https://img.shields.io/badge/Bash-20%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
-
 ## 🔥 Streak Stats
 
 <div align="center">
