@@ -1,8 +1,11 @@
-<!-- COLORFUL BACKGROUND ILLUSION - This creates a colored top section -->
-<div align="center" style="background: linear-gradient(135deg, #0A1F1A 0%, #0A2F2A 100%); padding: 50px; border-radius: 10px;">
+<body bgcolor="#0A0F1A">
+<div align="center" style="background: #0A0F1A; padding: 0; margin: 0;">
+
+<!-- FULL WIDTH DARK HEADER -->
+<div style="background: linear-gradient(135deg, #0A0F1A 0%, #1A0F2A 50%, #0A0F1A 100%); width: 100%; padding: 50px 0; margin: -8px -8px 0 -8px;">
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </div>
 
   <p align="center">
@@ -11,9 +14,12 @@
 
 </div>
 
+<!-- DARK BACKGROUND FOR ENTIRE CONTENT -->
+<div style="background: #0A0F1A; padding: 20px; color: #ffffff;">
+
 ## 👨‍💻 About Me
 
-I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and Generative AI!
+<span style="color: #ffffff;">I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and Generative AI!</span>
 
 - 🔭 I’m currently working on **Kubernetes homelab & AI agents**
 - 🌱 I’m currently learning **DevOps, Cloud, and Generative AI**
@@ -50,7 +56,7 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmur96&theme=react-dark&bg_color=0d1117&color=4c8dae&line=2c9f6f&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmur96&theme=react-dark&bg_color=0A0F1A&color=4c8dae&line=2c9f6f&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## ⚔️ Epic Dev Battles Arena
@@ -60,34 +66,34 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td align="center">
+      <td align="center" bgcolor="#1A0F2A">
         <a href="https://epicdevbattlesofhistory.com?player=nazmur96">
           <img src="https://img.shields.io/badge/🎮_ENTER_THE_ARENA-ff4757?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=2c3e50" />
         </a>
         <br>
-        <sub><b>Your Battle Stats:</b></sub>
+        <sub><span style="color:#ffffff;"><b>Your Battle Stats:</b></span></sub>
         <br>
-        <sub>⚡ Activity Power: <b>LOADING...</b></sub>
+        <sub><span style="color:#ffffff;">⚡ Activity Power: <b>LOADING...</b></span></sub>
         <br>
-        <sub>🏆 Streak Level: <b>READY</b></sub>
+        <sub><span style="color:#ffffff;">🏆 Streak Level: <b>READY</b></span></sub>
       </td>
-      <td align="center">
+      <td align="center" bgcolor="#1A0F2A">
         <a href="https://epicdevbattlesofhistory.com/challenge">
           <img src="https://img.shields.io/badge/🤺_CHALLENGE_FRIENDS-4c9aff?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50" />
         </a>
         <br>
-        <sub>Find opponents by GitHub username</sub>
+        <sub><span style="color:#ffffff;">Find opponents by GitHub username</span></sub>
         <br>
-        <sub>🎯 Any user. Any time.</sub>
+        <sub><span style="color:#ffffff;">🎯 Any user. Any time.</span></sub>
       </td>
-      <td align="center">
+      <td align="center" bgcolor="#1A0F2A">
         <a href="https://epicdevbattlesofhistory.com/leaderboard">
           <img src="https://img.shields.io/badge/🏆_GLOBAL_RANKINGS-f1c40f?style=for-the-badge&logo=trophy&logoColor=white&labelColor=2c3e50" />
         </a>
         <br>
-        <sub>Top 100 GitHub Warriors</sub>
+        <sub><span style="color:#ffffff;">Top 100 GitHub Warriors</span></sub>
         <br>
-        <sub>⬆️ Climb the leaderboard</sub>
+        <sub><span style="color:#ffffff;">⬆️ Climb the leaderboard</span></sub>
       </td>
     </tr>
   </table>
@@ -95,11 +101,28 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🚀 K8s Homelab](https://github.com/nazmur96/k8s-homelab) | My Kubernetes cluster setup and experiments | Kubernetes, Docker, Terraform |
-| [🤖 RAG Agent](https://github.com/nazmur96/rag-agent) | Building AI agents with Retrieval-Augmented Generation | Python, LangChain, OpenAI |
-| [⚙️ DevOps Tools](https://github.com/nazmur96/devops-tools) | Automation scripts for Linux administration | Python, Bash, Ansible |
+<table>
+  <tr>
+    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
+      <b>🚀 K8s Homelab</b><br/>
+      My Kubernetes cluster setup and experiments<br/>
+      <i>Kubernetes, Docker, Terraform</i><br/>
+      <a href="https://github.com/nazmur96/k8s-homelab">🔗 View Project →</a>
+    </td>
+    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
+      <b>🤖 RAG Agent</b><br/>
+      Building AI agents with Retrieval-Augmented Generation<br/>
+      <i>Python, LangChain, OpenAI</i><br/>
+      <a href="https://github.com/nazmur96/rag-agent">🔗 View Project →</a>
+    </td>
+    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
+      <b>⚙️ DevOps Tools</b><br/>
+      Automation scripts for Linux administration<br/>
+      <i>Python, Bash, Ansible</i><br/>
+      <a href="https://github.com/nazmur96/devops-tools">🔗 View Project →</a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Connect With Me
 
@@ -126,9 +149,12 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
 </div>
 
 <div align="center">
-  <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
+  <span style="color:#ffffff;">⭐️ If you like my profile, consider giving it a star! ⭐️</span>
 </div>
 
 <div align="center">
-  <i>💻 "From servers to agents — building the future, one line of code at a time." 💻</i>
+  <span style="color:#2C9F6F;">💻 "From servers to agents — building the future, one line of code at a time." 💻</span>
+</div>
+
+</div>
 </div>
