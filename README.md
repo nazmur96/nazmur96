@@ -47,13 +47,19 @@ I'm a Junior Linux Administrator on a mission to break into DevOps, Cloud, and G
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmur96&theme=react-dark&bg_color=0d1117&color=4c8dae&line=2c9f6f&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## 🐍 Snake Game Contribution Grid
+## 🚗 Drive Through Your GitHub City
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nazmur96/nazmur96/output/github-contribution-grid-snake.svg">
-</picture>
+*Every commit builds a skyscraper - now take a drive through the city YOU created!*
+
+<div align="center">
+  <a href="https://gitcity.vercel.app/?username=nazmur96" target="_blank">
+    <img src="https://gitcity.vercel.app/api/svg?username=nazmur96&theme=neon" alt="GitCity - Drive through your GitHub contributions" width="100%">
+  </a>
+</div>
+
+<div align="center">
+  <i>🎮 Click the image above to drive a car through your contribution city! 🚗💨</i>
+</div>
 
 ## 💼 Featured Projects
 
