@@ -1,5 +1,5 @@
 <!-- COLORFUL BACKGROUND ILLUSION - This creates a colored top section -->
-<div align="center" style="background: linear-gradient(135deg, #0B1120 0%, #1A2A4A 100%); padding: 50px; border-radius: 10px;">
+<div align="center" style="background: linear-gradient(135deg, #0A1F1A 0%, #0A2F2A 100%); padding: 50px; border-radius: 10px;">
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nazmur;Welcome+to+my+GitHub!" alt="Typing SVG" />
