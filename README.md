@@ -29,17 +29,16 @@
 - ⚡ Fun fact: **I love automating everything and building AI agents**
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/nazmur96/url-shortener/blob/main/app/main.py)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://github.com/nazmur96/url-shortener/blob/main/Dockerfile)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)](https://github.com/nazmur96/url-shortener/tree/main/k8s)
+[![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)](https://github.com/nazmur96/url-shortener/tree/main/terraform)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)](https://github.com/nazmur96/url-shortener/blob/main/terraform/main.tf)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://github.com/nazmur96/url-shortener#local-test)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/nazmur96/url-shortener/commits/main)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/nazmur96/url-shortener/actions)
 
 ## 📊 GitHub Stats
 <div align="center">
