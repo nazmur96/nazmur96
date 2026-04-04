@@ -98,31 +98,24 @@
   </table>
 </div>
 
-## 💼 Featured Projects
+## 🚀 Featured Project
 
-<table>
-  <tr>
-    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
-      <b>🚀 K8s Homelab</b><br/>
-      My Kubernetes cluster setup and experiments<br/>
-      <i>Kubernetes, Docker, Terraform</i><br/>
-      <a href="https://github.com/nazmur96/k8s-homelab">🔗 View Project →</a>
-    </td>
-    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
-      <b>🤖 RAG Agent</b><br/>
-      Building AI agents with Retrieval-Augmented Generation<br/>
-      <i>Python, LangChain, OpenAI</i><br/>
-      <a href="https://github.com/nazmur96/rag-agent">🔗 View Project →</a>
-    </td>
-    <td width="33%" bgcolor="#1A0F2A" style="padding: 10px;">
-      <b>⚙️ DevOps Tools</b><br/>
-      Automation scripts for Linux administration<br/>
-      <i>Python, Bash, Ansible</i><br/>
-      <a href="https://github.com/nazmur96/devops-tools">🔗 View Project →</a>
-    </td>
-  </tr>
-</table>
+### [URL Shortener Platform](https://github.com/nazmur96/url-shortener-platform) ⭐
 
+A **complete microservices-based URL shortener** built with FastAPI. This production-ready platform includes:
+
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| API Gateway | FastAPI | Entry point and routing |
+| Auth Service | JWT + OAuth2 | User authentication |
+| Core Service | FastAPI | URL shortening logic |
+| Rate Limiter | Redis | Request throttling (100 req/min) |
+| Chat Server | WebSockets | Real-time updates |
+| Worker | Celery | Background job processing |
+
+**Infrastructure:** Docker, Kubernetes, Terraform, AWS
+
+[🔗 View the complete platform →](https://github.com/nazmur96/url-shortener-platform)
 ## 📫 Connect With Me
 
 <p align="center">
