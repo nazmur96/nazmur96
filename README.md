@@ -28,7 +28,7 @@
 - 📫 How to reach me: **nazmurrakib1996@gmail.com**
 - ⚡ Fun fact: **I love automating everything and building AI agents**
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/nazmur96/url-shortener/blob/main/app/main.py)
